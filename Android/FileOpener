@@ -1,0 +1,9 @@
+FileOpener plugin for Phonegap
+=============
+
+Simple plugin which allows you to open popular files (PDF, WORD, EXCEL, JPG, GIF, POWERPOINT, VIDEOS, MUSIC etc.) stored locally on your device with Phonegap for Android.
+
+
+Moved To
+-------------
+https://github.com/markeeftb/FileOpener
